@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Morla2127
 - 👀 I’m interested in learning Cooking 
-- 📫 How to reach me ...
 
 <!---
 Morla2127/Morla2127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
